@@ -1,0 +1,512 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/* header area css start */
+.header-area {
+	padding: 10px 0;
+	box-shadow: 2px 2px 20px 0.5px #F7F4F4;
+}
+
+.menu-area ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+
+.menu-area ul li {
+	display: inline-block;
+}
+
+.menu-area ul li a {
+	color: #66686A;
+	font-size: 20px;
+	font-family: Poppins;
+	padding: 0 15px;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+.login-menu {
+	display: none;
+}
+
+.agent-login {
+  text-align: center;
+}
+
+.agent-login a {
+	color: #66686A;
+	font-size: 20px;
+	font-family: Poppins;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+.agent-login a:hover {
+	color: #66686A;
+	text-decoration: none;
+}
+/* header area css end */
+
+
+/* FAMILLY COVARAGE AREA CSS START */
+.familly-covarage {
+	padding-bottom: 50px;
+}
+
+.left-dtls {
+	padding-right: 57px;
+}
+
+.left-dtls h4 {
+	color: #4174E1;
+	font-size: 30px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.left-dtls h5 {
+	color: #222121;
+	font-size: 25px;
+	font-family: Poppins;
+	font-weight: 600;
+}
+
+.left-dtls p {
+	color: #66686A;
+	font-size: 20px;
+	font-family: Poppins;
+	margin-bottom: 0;
+}
+
+.left-dtls a {
+	width: 186px;
+	padding: 10px 20px;
+	border-radius: 5px;
+	background: #4174E1;
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+	margin-top: 30px;
+	text-decoration: none;
+	display: flex;
+	align-items: flex-start;
+}
+
+.left-dtls a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+/* FAMILLY COVARAGE AREA CSS END */
+
+
+/* FINANCIAL FREEDOM AREA CSS START */
+.financial-freedom-area {
+	background: #F2F2F2;
+	padding: 52px 0;
+}
+
+.right-dtls {
+	padding-left: 40px;
+}
+
+.right-dtls h3 {
+	color: #4174E1;
+	font-size: 30px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.right-dtls h4 {
+	color: #222121;
+	font-size: 25px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.right-dtls p {
+	color: #66686A;
+	font-size: 20px;
+	font-family: Poppins;
+	margin-bottom: 10px;
+}
+
+.right-dtls a {
+	width: 186px;
+	padding: 10px 20px;
+	border-radius: 5px;
+	background: #4174E1;
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+	margin-top: 30px;
+	text-decoration: none;
+	display: flex;
+	align-items: flex-start;
+}
+/* FINANCIAL FREEDOM AREA CSS END */
+
+
+/* LIFE INSURANCE AREA CSS START */
+.life-insurance-area {
+	padding: 50px 0;
+}
+
+.life-insurance-area h2 {
+	text-align: center;
+	font-size: 30px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin: 0;
+}
+
+.life-insurance-area h2 span {
+	color: #2C5BBF;
+}
+
+.insurance {
+	margin-top: 50px;
+}
+
+.single-insurance {
+	height: 470px;
+	padding: 28px 40px;
+	border-radius: 30px;
+	background: #FFF;
+	box-shadow: 0px 5px 20px 5px rgba(0, 0, 0, 0.10);
+}
+
+.single-insurance-img {
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	background: #FFF;
+	box-shadow: 0px 5px 20px 5px rgba(0, 0, 0, 0.10);
+	position: relative;
+	margin-bottom: 25px;
+}
+
+.single-insurance-img img {
+  width: 50px !important;
+  height: 47px !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.single-insurance img {
+  width: 100px;
+  height: 100px;
+}
+
+.single-insurance h4 {
+	color: #222121;
+	font-size: 20px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.single-insurance p {
+	color: #66686A;
+	font-size: 16px;
+	font-family: Poppins;
+	margin-bottom: 0;
+}
+/* LIFE INSURANCE AREA CSS END */
+
+
+/* DIVERCE PEOPLE AREA CSS START */
+.diverce-people-area {
+	padding: 62px 0;
+	background: #F2F2F2;
+}
+
+.diverse-dtls {
+	padding-right: 55px;
+}
+
+.diverse-dtls h2 {
+	color: #4174E1;
+	font-size: 30px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin: 0;
+}
+
+.diverse-dtls h3 {
+	color: #222121;
+	font-size: 25px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.diverse-dtls p {
+	color: #66686A;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.diverse-dtls a {
+	width: 186px;
+	padding: 10px 20px;
+	border-radius: 5px;
+	background: #4174E1;
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+	margin-top: 30px;
+	text-decoration: none;
+	display: flex;
+	align-items: flex-start;	
+}
+
+.bannar {
+	margin-top: 50px;
+}
+
+.img-title h6 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	font-family: Poppins;
+	font-weight: 600;
+}
+
+.desc span {
+	font-size: 14px;
+	font-family: Poppins;
+}
+
+.single-part1 {
+	background: #4174E1;
+	padding: 40px 24px;
+	color: #fff;
+	border-radius: 10px 0px 0px 10px;
+}
+
+.single-part2 {
+	background: #2C5BBF;
+	padding: 40px 24px;
+	color: #fff;	
+}
+
+.single-part3 {
+	background: #1B459D;
+	padding: 40px 24px;
+	color: #fff;	
+}
+
+.single-part4 {
+	background: #0E317B;
+	padding: 40px 24px;
+	color: #fff;	
+}
+
+.single-part5 {
+	background: #052059;
+	padding: 40px 24px;
+	color: #fff;	
+	border-radius: 0px 10px 10px 0px;
+}
+/* DIVERCE PEOPLE AREA CSS END */
+
+
+/* Back Into Life Insurance Area CSS Start */
+.back-insurance-area {
+	padding-top: 50px;
+}
+
+.title h3 {
+	color: #4174E1;
+	font-size: 30px;
+	font-family: Poppins;
+	font-weight: 600;
+	text-align: center;
+}
+
+.awesome-area {
+	margin-top: 50px;
+}
+
+.single-awesome {
+	border-radius: 10px;
+	border-top: 10px solid #FFF;
+	border-right: 10px solid #FFF;
+	border-bottom: 10px solid #FFF;
+	border-left: 10px solid #FFF;
+	box-shadow: 0px 5px 20px 5px rgba(0, 0, 0, 0.10);
+}
+
+.single-awesome h5 {
+	margin-top: 10px;
+	color: #66686A;
+	font-size: 20px;
+	font-family: Poppins;
+}
+/* Back Into Life Insurance Area CSS End */
+
+
+/* Footer Area Css Start */
+.footer-area {
+	margin-top: 100px;
+	padding: 45px 0;
+	background: #4174E1;
+}
+
+.footer-social-icon ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;	
+}
+
+.footer-social-icon ul li {
+	border-radius: 5px 5px 5px 5px;
+	background: #4C4C4C;
+	margin-bottom: 3px;
+}
+
+.footer-social-icon ul li a {
+	color: #fff;
+	padding: 9px 9px;
+	display: flex;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+.footer-social-icon ul li a i {
+	margin-right: 18px;
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+.contact h6 {
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.contact ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;	
+}
+
+.contact ul li {
+	margin-bottom: 15px;
+}
+
+.contact ul li a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 20px;
+}
+
+.aboutus {
+  margin-left: 50px;
+}
+
+.aboutus h6 {
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.aboutus ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;	
+}
+
+.aboutus ul li {
+	margin-bottom: 15px;
+}
+
+.aboutus ul li a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.agent h6 {
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.agent ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;	
+}
+
+.agent ul li {
+	margin-bottom: 15px;
+}
+
+.agent ul li a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.insurance-e h6 {
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.insurance-e ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;	
+}
+
+.insurance-e ul li {
+	margin-bottom: 15px;
+}
+
+.insurance-e ul li a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.copy-right {
+	background: #000;
+}
+
+.copy-right p {
+	color: #fff;
+	font-size: 30px;
+	font-family: Poppins;
+	font-weight: 600;
+	padding: 10px 0;
+	margin-bottom: 0;
+}
+/* Footer Area Css End */

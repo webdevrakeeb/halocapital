@@ -1,0 +1,362 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+	.left-dtls {
+	  padding-right: 25px;
+	  padding-top: 20px;
+	}
+
+	.financial-freedom-area {
+	  padding: 35px 0;
+	}
+
+
+
+	.right-dtls {
+	  padding-left: 10px;
+	}
+
+
+
+	.life-insurance-area {
+	  padding: 35px 0;
+	}
+
+	.insurance {
+	  margin-top: 0px;
+	}
+
+	.single-insurance {
+	  height: 320px;
+	  margin-top: 20px;
+	}
+
+
+	.aboutus {
+	  margin-left: 0;
+	}
+
+	.agent h6 {
+	  margin-bottom: 0;
+	}
+
+	.insurance-e h6 {
+	  margin-bottom: 0;
+	}
+
+	.diverce-people-area {
+	  padding: 40px 0;
+	  background: #F2F2F2;
+	}
+
+	.back-insurance-area {
+	  padding-top: 35px;
+	}
+
+	.awesome-area {
+	  margin-top: 30px;
+	}
+
+	.footer-area {
+	  margin-top: 50px;
+	}
+}
+
+
+
+
+@media screen and (min-width: 767px) and (max-width: 991px) {
+	.menu-area {
+		display: none;
+	}
+
+	.login-menu i {
+	  font-size: 30px;
+	  padding-right: 20px;
+	  cursor: pointer;
+	}
+
+	.login-menu {
+		display: block;
+	}
+
+	.login {
+		width: 80%;
+		float: left;
+	}
+
+	.menu {
+		width: 20%;
+		float: right;
+	}
+
+	.agent-login {
+		display: none;
+	}
+
+	.familly-covarage {
+	  padding-bottom: 35px;
+	  padding-top: 35px;
+	}
+
+	.financial-freedom-area {
+	  background: #F2F2F2;
+	  padding: 35px 0;
+	}
+
+	.left-image img {
+	  width: 100%;
+	  height: 410px!important;
+	}
+
+	.right-image {
+	  padding-top: 20px;
+	}
+
+	.right-image img {
+	  width: 100%;
+	  height: 410px!important;
+	}
+
+	.right-dtls {
+	  padding-left: 0;
+	  padding-top: 20px;
+	}
+
+	.life-insurance-area {
+	  padding: 35px 0;
+	}
+
+	.insurance {
+	  margin-top: 20px;
+	}
+
+	.single-insurance {
+	  margin-top: 20px;
+	  height: 390px;
+	}
+
+	.diverce-people-area {
+	  padding: 35px 0;
+	}
+
+	.diverce-image {
+	  margin-top: 20px;
+	}
+
+	.diverce-image img {
+	  width: 100%;
+	  height: 410px;
+	}
+
+	.back-insurance-area {
+	  padding-top: 35px;
+	}
+
+	.footer-area {
+	  margin-top: 50px;
+	}
+
+	.single-part3 {
+		border-radius: 0px 10px 10px 0px;	
+	}
+
+	.single-part4 {
+		border-radius: 10px 0px 0px 10px;
+		margin-top: 5px;	
+	}
+
+	.single-part5 {
+		margin-top: 5px;	
+	}
+
+	.awesome-area {
+	  margin-top: 20px;
+	}
+
+	.single-awesome {
+	  margin-top: 15px;
+	}
+
+	.aboutus {
+	  margin-left: 0;
+	}
+
+	.agent h6 {
+	  margin-bottom: 0;
+	}
+
+	.insurance-e h6 {
+	  margin-bottom: 0;
+	}
+
+	.contact {
+	  margin-top: 20px;
+	  margin-right: 20px;
+	}
+
+	.contact h6 {
+		text-align: right;
+	}
+
+	.contact ul {
+		text-align: right;
+	}
+}
+
+
+@media screen and (max-width: 767px) {
+	.menu-area {
+		display: none;
+	}
+
+	.agent-login {
+		display: none;
+	}
+
+	.login-menu {
+		display: block;
+	}
+
+	.login {
+		width: 80%;
+		float: left;
+	}
+
+	.menu {
+		width: 20%;
+		float: right;
+	}
+
+	.user-login {
+	  padding-right: 20px;
+	}	
+
+	.login-menu i {
+	  font-size: 30px;
+	  cursor: pointer;
+	}
+
+	.familly-covarage {
+	  padding-bottom: 30px;
+	  padding-top: 30px;
+	}
+
+	.right-image {
+	  margin-top: 20px;
+	}
+	.right-image img {
+	  width: 100%;
+	  height: 300px;
+	}
+
+	.financial-freedom-area {
+	  padding: 30px 0;
+	}
+
+	.left-dtls {
+	  padding-right: 0;
+	}
+
+	.left-image img {
+	  width: 100%;
+	  height: 300px;
+	}
+
+	.right-dtls {
+	  padding-left: 0;
+	  padding-top: 20px;
+	}
+
+	.life-insurance-area {
+	  padding: 20px 0px;
+	}
+
+	.life-insurance-area h2 {
+	  font-size: 20px;
+	}
+
+	.insurance {
+	  margin-top: 0px;
+	}
+
+	.single-insurance {
+	  height: 355px;
+	  margin-top: 20px;
+	}
+
+	.diverce-people-area {
+	  padding: 30px 0;
+	}
+
+	.diverce-image {
+		padding-top: 20px;
+	}
+
+	.diverse-dtls {
+	  padding-right: 0;
+	}
+
+	.diverce-image img {
+	  width: 100%;
+	  height: 300px;
+	}
+
+	.single-part1 {
+	  border-radius: 10px 10px 0px 0px;
+	}
+
+	.single-part5 {
+	  border-radius: 0px 0px 10px 10px;
+	}
+
+	.back-insurance-area {
+	  padding-top: 20px;
+	}
+
+	.title h3 {
+	  font-size: 25px;
+	}
+
+	.awesome-area {
+	  margin-top: 0px;
+	}
+
+	.single-awesome {
+	  margin-top: 20px;
+	}
+
+	.footer-area {
+	  margin-top: 40px;
+	  padding: 35px 0;
+	}
+
+	.aboutus {
+	  margin-left: 0;
+	}
+
+	.agent h6 {
+	  margin-bottom: 0;
+	}
+
+	.insurance-e h6 {
+	  margin-bottom: 0;
+	}
+
+	.contact {
+	  text-align: left !important;
+	  margin-top: 20px;
+	}
+
+	.unic {
+		margin-top: 20px;
+	}
+
+	.col-4 {
+	  width: 50% !important;
+	}
+
+	.copy-right p {
+		font-size: 20px;
+	}
+
+
+}
